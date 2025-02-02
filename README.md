@@ -32,6 +32,9 @@
 </ul>
 <p>🚀 Always learning, always building! Let’s collaborate! 💻✨</p>
 </div>
+
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=ansamyaseen&theme=vue&border_radius=5.9&mode=weekly" alt="GitHub Streak" /></a>
+
 </body>
 
 </html>
