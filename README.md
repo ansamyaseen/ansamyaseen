@@ -23,6 +23,7 @@
 <h3 id="💡-what-i’m-working-on">💡 What I’m working on:</h3>
 <p>🔹 <strong>Machine Learning &amp; AI for Mental Health Detection</strong> (Graduation Project)<br>
 🔹 <strong>A Web App for Record Management</strong> using Laravel</p>
+    
 <h3 id="📫-how-to-reach-me">📫 How to reach me:</h3>
 <ul>
 <li><strong>Email:</strong> <a href="mailto:ansamyaseen80@gmail.com">ansamyaseen80@gmail.com</a></li>
@@ -31,6 +32,7 @@
 <li><strong>Facebook:</strong> <a href="https://www.facebook.com/simo.semsem.370/">https://www.facebook.com/simo.semsem.370/</a></li>
 </ul>
 <p>🚀 Always learning, always building! Let’s collaborate! 💻✨</p>
+<a href="https://www.youtube.com/@CodingwithAnsam"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="YouTube" /></a>
 </div>
 
   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=ansamyaseen&theme=vue&border_radius=5.9&mode=weekly" alt="GitHub Streak" /></a>
