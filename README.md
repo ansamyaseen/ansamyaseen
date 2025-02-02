@@ -14,11 +14,16 @@
 <p>I’m a passionate full-stack developer with experience in building scalable web applications. I specialize in <strong>PHP, Laravel, JavaScript (ES6), MySQL, and modern web technologies</strong>. My focus is on creating efficient, user-friendly, and high-performance applications.</p>
 <h3 id="🔧-tech-stack--skills">🔧 Tech Stack &amp; Skills:</h3>
 <ul>
-<li><strong>Frontend:</strong> HTML5, CSS3, JavaScript (ES6), Bootstrap, Vue.js (learning)</li>
-<li><strong>Backend:</strong> PHP (Laravel 9 &amp; 11), REST APIs, Eloquent ORM</li>
-<li><strong>Database:</strong> MySQL (Database Design &amp; Optimization)</li>
-<li><strong>CMS &amp; Tools:</strong> Git, Figma, Adobe Photoshop</li>
-<li><strong>Other Skills:</strong> Project Management, Customer Experience (CX), Office 365</li>
+<a href="https://www.figma.com/files/team/1373008107619653846/recents-and-sharing?fuid=1181619933157045328"><img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" /></a>
+  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+<img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+<img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+<img src="https://img.shields.io/badge/Vue.js-%2342b983.svg?style=for-the-badge&logo=vue.js&logoColor=white" alt="Vue.js" />
+<img src="https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+<img src="https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
+<img src="https://img.shields.io/badge/MySQL-%2300758F.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+<img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+
 </ul>
 <h3 id="💡-what-i’m-working-on">💡 What I’m working on:</h3>
 <p>🔹 <strong>Machine Learning &amp; AI for Mental Health Detection</strong> (Graduation Project)<br>
