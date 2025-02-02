@@ -32,10 +32,12 @@
 <li><strong>Facebook:</strong> <a href="https://www.facebook.com/simo.semsem.370/">https://www.facebook.com/simo.semsem.370/</a></li>
 </ul>
 <p>🚀 Always learning, always building! Let’s collaborate! 💻✨</p>
-<a href="https://www.youtube.com/@CodingwithAnsam"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="YouTube" /></a>
+<a href="https://www.youtube.com/@CodingwithAnsam"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="YouTube" /></a> 
+<a href="https://www.linkedin.com/in/ansam-yaseen-3b7a781b7/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </div>
 
   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=ansamyaseen&theme=vue&border_radius=5.9&mode=weekly" alt="GitHub Streak" /></a>
+
 
 </body>
 
