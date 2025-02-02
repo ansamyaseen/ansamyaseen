@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/ansamyaseen">
-    <img src="text-to-image" alt="Ansam" /></a>
+    <img src="text-to-image.jpeg" alt="Ansam" /></a>
 </p>
 
 <p align="center">
