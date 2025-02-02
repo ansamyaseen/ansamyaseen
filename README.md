@@ -23,20 +23,13 @@
 <img src="https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
 <img src="https://img.shields.io/badge/MySQL-%2300758F.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
 <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
-
+<p>🚀 Always learning, always building! Let’s collaborate! 💻✨</p>
 </ul>
 <h3 id="💡-what-i’m-working-on">💡 What I’m working on:</h3>
 <p>🔹 <strong>Machine Learning &amp; AI for Mental Health Detection</strong> (Graduation Project)<br>
 🔹 <strong>A Web App for Record Management</strong> using Laravel</p>
     
 <h3 id="📫-how-to-reach-me">📫 How to reach me:</h3>
-<ul>
-<li><strong>Email:</strong> <a href="mailto:ansamyaseen80@gmail.com">ansamyaseen80@gmail.com</a></li>
-<li><strong>GitHub:</strong> <a href="https://github.com/ansamyaseen">github.com/ansamyaseen</a></li>
-<li><strong>linkedin:</strong> <a href="https://www.linkedin.com/in/ansam-yaseen-3b7a781b7/">https://www.linkedin.com/in/ansam-yaseen-3b7a781b7/</a></li>
-<li><strong>Facebook:</strong> <a href="https://www.facebook.com/simo.semsem.370/">https://www.facebook.com/simo.semsem.370/</a></li>
-</ul>
-<p>🚀 Always learning, always building! Let’s collaborate! 💻✨</p>
 <a href="https://www.youtube.com/@CodingwithAnsam"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="YouTube" /></a> 
 <a href="https://www.linkedin.com/in/ansam-yaseen-3b7a781b7/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </div>
