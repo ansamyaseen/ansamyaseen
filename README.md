@@ -1,43 +1,80 @@
-<!DOCTYPE html>
-<html>
-
-<head>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-
-  <link rel="stylesheet" href="https://stackedit.io/style.css" />
-</head>
-
-<body class="stackedit">
-  <div class="stackedit__html"><h1 id="👋-hi-im-smsm">👋 Hi, I’m Smsm!</h1>
-<p>🚀 <strong>Full-Stack Developer | PHP &amp; Laravel Specialist</strong></p>
-<p>I’m a passionate full-stack developer with experience in building scalable web applications. I specialize in <strong>PHP, Laravel, JavaScript (ES6), MySQL, and modern web technologies</strong>. My focus is on creating efficient, user-friendly, and high-performance applications.</p>
-<h3 id="🔧-tech-stack--skills">🔧 Tech Stack &amp; Skills:</h3>
-<ul>
-<a href="https://www.figma.com/files/team/1373008107619653846/recents-and-sharing?fuid=1181619933157045328"><img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" /></a>
-  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-<img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-<img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-<img src="https://img.shields.io/badge/Vue.js-%2342b983.svg?style=for-the-badge&logo=vue.js&logoColor=white" alt="Vue.js" />
-<img src="https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
-<img src="https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
-<img src="https://img.shields.io/badge/MySQL-%2300758F.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-<img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
-<p>🚀 Always learning, always building! Let’s collaborate! 💻✨</p>
-</ul>
-<h3 id="💡-what-i’m-working-on">💡 What I’m working on:</h3>
-<p>🔹 <strong>Machine Learning &amp; AI for Mental Health Detection</strong> (Graduation Project)<br>
-🔹 <strong>A Web App for Record Management</strong> using Laravel</p>
-    
-<h3 id="📫-how-to-reach-me">📫 How to reach me:</h3>
-<a href="https://www.youtube.com/@CodingwithAnsam"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="YouTube" /></a> 
-<a href="https://www.linkedin.com/in/ansam-yaseen-3b7a781b7/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=40&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&height=100&lines=Hi+%F0%9F%91%8B%2C+I'm+ansam+yaseen;Frontend+Developer" alt="Typing SVG" />
 </div>
 
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=ansamyaseen&theme=vue&border_radius=5.9&mode=weekly" alt="GitHub Streak" /></a>
+<h3 align="center">A passionate Frontend Developer from Egypt 🌟</h3>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mohamedsamy04&label=Profile%20views&color=3b82f6&style=flat" alt="Profile Views" />
+</p>
+
+## 🚀 About Me
+
+- 🎓 I'm currently studying at **Faculty of science department of computer science , zagazig University**
+- 💻 Frontend Developer specializing in **React** and **vue.js**
+- 🌱 Currently learning **Advanced React Patterns** and **Web Performance Optimization**
+- 👯 Looking to collaborate on **Frontend Development Projects**
+- 💬 Ask me about **React, vue.js, TypeScript, and gsap for animation**
+
+## 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/badge/vue.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+</p>
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mohamedsamy04&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohamedsamy04&theme=tokyonight" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedsamy04&layout=compact&theme=tokyonight" alt="Top Languages" />
+</div>
 
 
-</body>
+## 🏆 Achievements
+- 🎓 Frontend Web Development Training at DEPI
 
-</html>
+## 📫 Connect With Me
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/ansam-yaseen-3b7a781b7/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/ansamyaseen" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="mailto:ansamyaseen80@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+</p>
+
+## 📈 Activity Graph
+
+<div align="center">
+  <img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=ansam04&theme=tokyo-night" />
+</div>
+
+---
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
+</div>
+
+---
+
+<div align="center">
+  ⭐️ From [Ansam Yaseen](https://github.com/ansamyaseen)
+</div>
