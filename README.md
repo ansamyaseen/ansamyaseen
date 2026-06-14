@@ -28,7 +28,7 @@
 
 ## 💫 Professional Summary
 
-Results-driven **Full Stack Developer** with strong experience engineering scalable, high-performance web applications using **React.js**, **Vue.js**, and modern **JavaScript (ES6+)** alongside backend frameworks like **PHP/Laravel**. 
+Results-driven **Full Stack Developer** with strong experience engineering scalable, high-performance web applications using **React.js**, **Vue.js**,**Next.js**, and modern **JavaScript (ES6+)** alongside backend frameworks like **PHP/Laravel**. 
 
 * 🎨 **Figma to Code Specialist**: Adept at translating complex Figma designs into responsive, pixel-perfect, and accessible user interfaces.
 * ⚙️ **Robust Architectures**: Experienced in architecting robust backend infrastructures, database designs, and integrating secure RESTful & GraphQL APIs.
@@ -40,7 +40,7 @@ Results-driven **Full Stack Developer** with strong experience engineering scala
 ## 🛠️ Tech Stack & Skills
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,vue,html,css,tailwind,bootstrap,sass,php,laravel,mysql,sqlite,graphql,figma,photoshop,git,github,vscode,vite" alt="Skills Belt" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,vue,html,css,tailwind,bootstrap,sass,php,laravel,mysql,sqlite,graphql,figma,photoshop,git,github,docker,vscode,vite" alt="Skills Belt" />
 </p>
 
 <details open>
@@ -64,29 +64,26 @@ Results-driven **Full Stack Developer** with strong experience engineering scala
 ## 💼 Professional Experience
 
 ### 🚀 **Freelance Full Stack / Frontend Developer** | Upwork
-**Remote • Jan 2024 – Present**  
+**Remote • Jan 2024 – March 2026**  
 *Delivering high-quality, scalable products for international clients with a **100% Job Success Score**.*
 
 * **E-Commerce Platform for Saudi Luxury Pastry Shop**
   * Built a full-featured e-commerce app featuring custom UI/UX implementation, geolocation-based delivery services, and dynamic RTL/LTR language support.
-  * **Tech Stack:** Vue.js, JavaScript, Bootstrap.
   * **Client Feedback:** ⭐ 5.0 / 5.0
 * **Real-Time Dashboard with Linear API Integration**
   * Engineered a real-time analytics dashboard powered by GraphQL API. Secured optimized performance (Lighthouse score 95+) and structured scalable, reusable frontend components with strict state management.
-  * **Tech Stack:** React, TypeScript, GraphQL.
   * **Client Feedback:** ⭐ 5.0 / 5.0
 * **Laravel Backend Development & EdfaPay Integration**
   * Formulated RESTful APIs equipped with robust authentication systems and integrated the EdfaPay payment gateway.
   * Optimized SQL queries, reducing API latency and improving query performance by **40%**.
-  * **Tech Stack:** Laravel, PHP, MySQL.
   * **Client Feedback:** ⭐ 5.0 / 5.0
 
 ---
 
 ### 💻 **Frontend Developer** | Skylimit App
-**Remote (California, USA) • 3-Month Contract**  
+**Remote (California, USA) • 6-Month Contract**  
 * Developed and optimized frontend components for web applications, collaborating closely with design and backend teams to ensure seamless interface behavior.
-* **Tech Stack:** React, HTML5, CSS3, JavaScript.
+* **Tech Stack:** React, HTML5, CSS3, JavaScript ,PHP.
 
 ---
 
@@ -101,7 +98,6 @@ Results-driven **Full Stack Developer** with strong experience engineering scala
 
 * 🌐 **[Personal Portfolio](https://ansam.website/)** — A sleek, modern personal portfolio showcasing design flair and frontend expertise.
 * 🏢 **[Client Portfolio Website](https://sofian-agency.vercel.app/)** — A high-performance agency website featuring modern animations and custom layout structures.
-* 🧠 **[AI-Based Mental Health Detection System](https://github.com/ansamyaseen/Graduation-pro)** *(Graduation Project)* — An intelligent system designed to detect mental health patterns using AI.
 * 🏋️ **Gym Management System** — A robust offline desktop application designed to manage gyms, memberships, and billing, built with C# and SQLite.
 
 ---
@@ -144,5 +140,5 @@ Feel free to reach out for collaboration, projects, or just a friendly developer
 * 💼 **LinkedIn:** [Ansam Yaseen](https://linkedin.com/in/ansam-yaseen-3b7a781b7)
 * 🟢 **Upwork:** [Ansam Yaseen (100% Job Success)](https://upwork.com/freelancers/~011f39b8df55235757)
 * 🌐 **Portfolio:** [ansam.website](https://ansam.website)
-* 📞 **Phone:** [+201515114541](tel:+201515114541) / [+201228263388](tel:+201228263388)
+* 📞 **Phone:** [+201515114541](tel:+201515114541) 
 * 📍 **Location:** Sharkia, Egypt
