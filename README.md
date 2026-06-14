@@ -11,16 +11,16 @@
 
 <p align="center">
   <a href="mailto:ansamyaseen80@gmail.com">
-    <img src="https://img.shields.io/badge/Email-ansamyaseen80%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+    <img src="./buttons/email.svg" alt="Email" height="40">
   </a>
   <a href="https://linkedin.com/in/ansam-yaseen-3b7a781b7">
-    <img src="https://img.shields.io/badge/LinkedIn-Ansam_Yaseen-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    <img src="./buttons/linkedin.svg" alt="LinkedIn" height="40">
   </a>
   <a href="https://upwork.com/freelancers/~011f39b8df55235757">
-    <img src="https://img.shields.io/badge/Upwork-100%25_Job_Success-14A800?style=for-the-badge&logo=upwork&logoColor=white" alt="Upwork">
+    <img src="./buttons/upwork.svg" alt="Upwork" height="40">
   </a>
   <a href="https://ansam.website">
-    <img src="https://img.shields.io/badge/Portfolio-ansam.website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website">
+    <img src="./buttons/portfolio.svg" alt="Portfolio" height="40">
   </a>
 </p>
 
