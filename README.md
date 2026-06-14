@@ -6,7 +6,7 @@
 <p align="center"><strong>Full Stack Developer • UI/UX Enthusiast • Freelancer</strong></p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Outfit&weight=600&size=24&pause=1000&color=E11D48&center=true&vCenter=true&width=660&lines=Full+Stack+Web+Developer;React.js+%26+Vue.js+Expert;Laravel+Backend+Engineer;Translating+Figma+to+Pixel-Perfect+UI">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Outfit&weight=600&size=24&pause=1000&color=f5c098&center=true&vCenter=true&width=660&lines=Full+Stack+Web+Developer;React.js+%26+Vue.js+%26+Next.js+Expert;Business+Management+System+Developer;Translating+Figma+to+Pixel-Perfect+UI">
 </p>
 
 <p align="center">
